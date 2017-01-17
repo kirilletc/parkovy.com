@@ -1,0 +1,2163 @@
+
+/*  */
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+	
+
+.home {
+    margin: 30px 0px 0px;
+    background-size: auto 675px;
+    height: 510px;
+    padding: 170px 0px 0px;
+}
+
+.home .scroll {
+	margin: 90px auto 0px;
+}
+
+
+.personnel {
+    height: 900px;
+
+}
+.personnel .title {
+    padding: 42px 0px 0px;
+}
+.personnel ul li {
+    padding: 90px 0px 14px 20px;
+}
+
+
+
+
+.experience {
+    height: 640px;
+}
+.experience .info {
+    padding: 70px 0px 0px;
+}
+
+.experience ul {
+    margin: 30px 0px 0px;
+}
+
+.experience .experience-slider {
+	width: 436px;
+	margin: 23px 39px 0px;
+}
+
+.experience .experience-slider a img {
+    border: 8px solid #eeeeee;
+    width: 410px;
+    height: auto;
+}
+
+.experience .experience-slider .button-prev {
+    margin: 0px auto 0px;
+}
+.experience .experience-slider .button-next {
+    margin: 0px auto 0px;
+}
+	
+.experience .experience-slider .button {
+	width: 44px;
+	height: 28px;
+	background-size: 44px auto;
+}
+.past .title {
+}
+	
+	
+	
+	
+	
+}
+@media screen and (min-width: 1000px) and (max-width: 1200px) {
+	
+
+
+.wrapper {
+	width: 960px;
+}
+
+
+.logo {
+	width: 180px;
+}
+.logo span {
+	display: none
+}
+
+.top-menu {
+	width: 530px;
+}
+
+.top-menu  li {
+	margin: 0px 7px 0px;
+}
+.top-menu  li a {
+	font-size: 15px;
+}
+
+
+
+
+
+
+.home {
+	margin: 40px 0px 0px;
+	background-size: auto 680px;
+	height: 450px;
+	padding: 110px 0px 0px;
+}
+.home .title {
+	font-size: 33px;
+	width: 650px;
+}
+.home .advans {
+	font-size: 13px;
+	margin: 58px 0px 0px;
+}
+.home .advans li {
+	padding: 14px 0px 0px;
+	width: 33%;
+	line-height: 16px;
+}
+.home .advans li span {
+	width: 50px;
+	
+}
+.home .advans li img {
+	max-width: 47px;
+	max-height: 45px;
+}
+
+.home .form {
+	width: 268px;
+	height: 321px;
+	background-color: #fff;
+	display: inline-block;
+	vertical-align: top;
+	border-radius: 4px;
+	padding: 15px 16px;
+	position: relative;
+}
+
+.home .scroll {
+	margin: 30px auto 0px;
+}
+
+
+
+
+
+
+
+
+.about {
+	height: 400px;
+	padding: 34px 0px 0px;
+}
+.about .info {
+	width: 510px;
+}
+.about .info .title {
+	font-size: 24px;
+	margin: 30px 0px 20px;
+	line-height: 32px;
+}
+.about .info ul {
+	width: 530px;
+	margin: 0px auto;
+	padding: 0px 0px 0px 56px;
+}
+.about .info ul li {
+	font-size: 13px;
+	padding: 13px 0px 13px;
+}
+.about .attestat {
+	width: 440px;
+	margin: 0px 0px 0px 0px;
+}
+.about .attestat img {
+	height: auto;
+	width: 440px;
+}
+.about .attestat label {
+	font-size: 14px;
+}
+.about .attestat label b {
+	font-size: 16px;
+}
+
+
+
+
+
+.personnel {
+	height: 890px;
+	background-size: 1800px 1005px;
+	background-position: top center;
+}
+.personnel .title {
+	font-size: 24px;
+	padding: 42px 0px 20px;
+}
+.personnel ul li { 
+	width: 450px;
+	padding: 66px 0px 14px 20px;
+	line-height: 16px;
+	font-size: 15px;
+}
+.personnel ul li span {
+	margin: -22px 16px 0 0px;
+	padding: 10px;  
+	width: 74px;
+	height: 74px;
+	line-height: 73px;
+	border: 7px solid #da1c5c9;
+}
+
+.personnel .diplomas a {
+	margin: 0px 12px;
+}
+
+
+
+
+
+
+
+.experience {
+	height: 540px;
+}
+.experience .info {
+	width: 600px;
+	padding: 60px 0px 0px;
+}
+.experience .title {
+	font-size: 24px;
+}
+.experience ul {
+	margin: 26px 0px 0px;
+	width: 400px;
+	padding: 0px 0px 0px 100px;
+}
+.experience ul li {
+    font-size: 16px;
+    padding: 18px 0px 4px 0px;
+}
+
+.experience .experience-slider {
+	width: 340px;
+}
+.experience .experience-slider .button {
+	width: 45px;
+	height: 19px;
+	margin: 0px auto;
+	background-size: 45px 19px;
+	
+}
+.experience .experience-slider .button-prev{
+	margin: 0px auto 15px;
+}
+.experience .experience-slider .button-next{
+	margin: 15px auto 0px;
+}
+.experience .experience-slider a {
+	margin: 5px 5px;
+}
+.experience .experience-slider a img {
+	border: 7px solid #eeeeee;
+	width: 340px;
+	height: auto;
+	
+}
+
+
+
+
+
+
+.employees {
+	background-color: #F5F5F5;
+	height: 490px;
+}
+.employees .title {
+	font-size: 24px;
+	padding: 40px 0px 50px;
+}
+.employees ul li {
+	width: 200px;
+	margin: 0px 12px 0px;
+}
+.employees ul li img {
+}
+.employees ul li label {
+	font-size: 14px;
+}
+.employees ul li label b {
+	font-size: 16px;
+}
+
+
+
+
+
+.conditions {
+	height: 505px;
+}
+.conditions .info_bg {
+	width: 49%;
+	height: 505px;
+	background-position: top right 17%;
+}
+.conditions .info {
+	width: 500px;
+	height: 505px;
+}
+.conditions .title {
+	font-size: 24px;
+	font-weight: bold;
+	padding: 45px 0px 20px;
+}
+
+
+
+
+
+.terms {
+	text-align: center;
+	height: 515px;
+}
+.terms .title {
+	font-size: 24px;
+    font-weight: bold;
+	margin: 41px 0px 10px;
+}
+
+
+
+
+
+.past {
+	height: 620px;
+	background-color: #F5F5F5;
+}
+.past .title {
+	font-size: 24px;
+	padding: 40px 0px 0px;
+}
+.past .past-slider a {
+	width: 230px;
+	height: 390px;
+	margin: 0px 25px 50px;
+}
+.past .past-slider img {
+	width: 230px;
+	height: auto;
+}
+.past .past-slider label {
+	color: #121212;
+	padding: 10px 0px 0px;
+}
+.past .past-slider .button {
+	position: absolute;
+	bottom: 0px;
+	width: 20px;
+	height: 35px;
+	font-size: 0px;
+	cursor: pointer;
+}
+.past .past-slider .button-prev {
+	left: 35%;
+}
+.past .past-slider .button-next {
+	right: 35%;
+}
+.past .past-slider .slick-dots {
+	height: 32px;
+	width: 23%;
+}
+
+
+
+
+
+.working {
+	height: 2050px;
+}
+.working .title {
+	font-size: 24px;
+	margin: 42px 0px 50px;
+}
+.working ul {
+	background-image: url('images/bg/working.png');
+	background-size: 30px 1730px;
+}
+.working ul li {
+	width: 310px;
+	height: 118px;
+	font-size: 13px;
+	line-height: 14px;
+}
+.working ul li span {
+	margin: 46px 20px 43px 20px;
+}
+.working ul li:nth-child(2n){
+	margin-left: 520px;
+}
+.working ul li:nth-child(2n) span {
+    margin: 43px 20px 40px 20px;
+}
+.working ul li:last-child {
+	margin: 92px 0px 32px 315px;
+}
+.working ul li label {
+	width: 230px;
+}
+
+
+
+
+
+
+
+.contacts {
+	height: 760px;
+}
+.contacts .map {
+	width: 49%;
+}
+.contacts .info {
+	width: 475px;
+	height: 760px;
+}
+.contacts .info .title {
+	font-size: 24px;
+	padding: 45px 0px 20px;
+}
+.contacts ul {
+    margin: 0px 0px 0px 70px;
+}
+.contacts ul li {
+	margin: 40px 0px 50px;
+}
+.contacts ul li span {
+    width: 60px;
+	height: 100%;
+}
+	
+.contacts ul li label {
+	font-size: 15px;
+}
+.contacts ul li img {}
+
+.contacts ul li.icon-phone  {
+	font-size: 18px;
+	font-weight: 600;
+}
+.contacts ul li.icon-phone  label {
+	font-size: 18px;
+	font-weight: 600;
+}
+.contacts ul li.icon-phone  a {
+	font-size: 15px;
+	font-weight: 500;
+	margin: 0px 10px;
+	color: #da1c5c;
+}
+.contacts ul li.icon-email  {
+	font-size: 18px;
+	font-weight: 600;
+}
+.contacts ul li.icon-email label {
+	font-size: 18px;
+	font-weight: 600;
+}
+.contacts ul li.icon-geo  {
+    margin: -15px 0px 20px;
+}
+.contacts ul li.icon-geo span {}
+.contacts ul li.icon-info  {
+	margin: 40px 0px 20px;
+}
+.contacts ul li.icon-info .titl {
+	font-size: 15px;
+}
+.contacts ul li.icon-info label {
+	padding: 6px 0px 0px 70px;
+}
+
+.contacts .dev span {
+}
+
+
+.policie {
+	font-size: 13px;
+	padding: 0px 0px 20px;
+}
+
+.policie .title {
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	margin: 30px 0px 20px;
+	line-height: 32px;
+}
+
+
+	
+}
+
+@media screen and (max-width: 1400px) {
+}
+
+
+/*  */
+@media screen and (min-width: 870px) and (max-width: 1000px) {
+	
+	
+.wrapper {
+	width: 850px;
+}
+
+
+.logo {
+	width: 100px;
+}
+.logo span {
+	display: none
+}
+
+.top-menu {
+	width: 500px;
+}
+
+.top-menu  li {
+	margin: 0px 7px 0px;
+}
+.top-menu  li a {
+	font-size: 15px;
+}
+
+
+
+
+
+
+.home {
+	margin: 40px 0px 0px;
+	background-size: auto 680px;
+	height: 450px;
+	padding: 110px 0px 0px;
+}
+.home .title {
+	font-size: 29px;
+	width: 545px;
+}
+.home .advans {
+	font-size: 13px;
+	margin: 58px 0px 0px;
+	text-align: center;
+}
+.home .advans li {
+	width: 45%;
+	line-height: 16px;
+	text-align: left;
+}
+.home .advans li span {
+	width: 50px;
+	
+}
+.home .advans li img {
+	max-width: 47px;
+	max-height: 45px;
+}
+
+.home .form {
+	width: 268px;
+	height: 321px;
+	background-color: #fff;
+	display: inline-block;
+	vertical-align: top;
+	border-radius: 4px;
+	padding: 15px 16px;
+	position: relative;
+}
+
+.home .scroll {
+	margin: 30px auto 0px;
+}
+
+
+
+
+
+
+
+
+.about {
+	height: 400px;
+	padding: 34px 0px 0px;
+}
+.about .info {
+    width: 440px;
+}
+.about .info .title {    
+	font-size: 21px;
+	margin: 30px 0px 20px;
+	line-height: 32px;
+}
+.about .info ul {
+	width: 400px;
+	padding: 0px 0px 0px 28px;
+}
+.about .info ul li {
+	font-size: 13px;
+	padding: 13px 0px 13px;
+}
+.about .attestat {
+	width: 400px;
+	margin: 0px 0px 0px 0px;
+}
+.about .attestat img {
+	height: auto;
+	width: 440px;
+}
+.about .attestat label {
+	font-size: 14px;
+}
+.about .attestat label b {
+	font-size: 16px;
+}
+
+
+
+
+
+.personnel {
+	height: 890px;
+	background-size: 1800px 1005px;
+	background-position: top center;
+}
+.personnel .title {    
+	font-size: 21px;
+	padding: 42px 0px 20px;
+}
+.personnel ul li { 
+	width: 380px;
+	padding: 59px 0px 14px 20px;
+	line-height: 16px;
+	font-size: 13px;
+}
+.personnel ul li span {
+	margin: -11px 16px 0 0px;
+	padding: 7px;
+	width: 55px;
+	height: 55px;
+	line-height: 54px;
+	border: 7px solid #da1c5c9;
+}
+.personnel ul li  img {
+	max-width: 33px;
+	max-height: 50px;
+}
+
+.personnel .diplomas a {
+	margin: 0px 3px;
+}
+
+
+
+
+
+
+
+.experience {
+	height: 540px;
+}
+.experience .info {
+	width: 490px;
+	padding: 60px 15px 0px 0px;
+}
+.experience .title {
+	font-size: 21px;
+}
+.experience ul {
+	margin: 26px 0px 0px;
+	padding: 0px 0px 0px 100px;
+}
+.experience ul li {
+    font-size: 16px;
+    padding: 18px 0px 4px 0px;
+}
+
+.experience .experience-slider {
+	width: 340px;
+}
+.experience .experience-slider .button {
+	width: 45px;
+	height: 19px;
+	margin: 0px auto;
+	background-size: 45px 19px;
+	
+}
+.experience .experience-slider .button-prev{
+	margin: 0px auto 15px;
+}
+.experience .experience-slider .button-next{
+	margin: 15px auto 0px;
+}
+.experience .experience-slider a {
+	margin: 5px 5px;
+}
+.experience .experience-slider a img {
+	border: 7px solid #eeeeee;
+	width: 340px;
+	height: auto;
+	
+}
+
+
+
+
+
+
+.employees {
+	background-color: #F5F5F5;
+	height: 440px;
+}
+.employees .title {
+	font-size: 21px;
+	padding: 40px 0px 50px;
+}
+.employees ul li {
+    width: 175px;
+	margin: 0px 12px 0px;
+}
+.employees ul li img {
+}
+.employees ul li label {
+	font-size: 14px;
+}
+.employees ul li label b {
+	font-size: 16px;
+}
+
+
+
+
+
+.conditions {
+	height: 505px;
+}
+.conditions .info_bg {
+	width: 49%;
+	height: 505px;
+	background-position: top right 17%;
+}
+.conditions .info {
+    width: 420px;
+	height: 505px;
+}
+.conditions .title {
+	font-size: 21px;
+	padding: 45px 0px 20px;
+}
+
+
+
+
+
+.terms {
+	text-align: center;
+	height: 430px;
+}
+.terms .title {
+	font-size: 21px;
+    font-weight: bold;
+	margin: 41px 0px 10px;
+}
+.terms img {
+    display: inline-block;
+    vertical-align: top;
+    margin: 16px 68px 0px 0px;
+    width: 350px;
+}
+
+
+
+
+.past {
+	height: 620px;
+	background-color: #F5F5F5;
+}
+.past .title {
+	font-size: 21px;
+	padding: 40px 0px 0px;
+}
+.past .past-slider a {
+	width: 230px;
+	height: 390px;
+	margin: 0px 25px 50px;
+}
+.past .past-slider img {
+	width: 230px;
+	height: auto;
+}
+.past .past-slider label {
+	color: #121212;
+	padding: 10px 0px 0px;
+}
+.past .past-slider .button {
+	position: absolute;
+	bottom: 0px;
+	width: 20px;
+	height: 35px;
+	font-size: 0px;
+	cursor: pointer;
+}
+.past .past-slider .button-prev {
+	left: 35%;
+}
+.past .past-slider .button-next {
+	right: 35%;
+}
+.past .past-slider .slick-dots {
+	height: 32px;
+	width: 23%;
+}
+
+
+
+
+
+.working {
+	height: 2030px;
+}
+.working .title {
+	font-size: 21px;
+	margin: 42px 0px 50px;
+}
+.working ul {
+	background-size: 30px 1730px;
+}
+.working ul li {
+	width: 290px;
+	height: 83px;
+	font-size: 13px;
+	line-height: 14px;
+	margin: 30px 0px 70px 90px;
+}
+.working ul li span {
+    margin: 20px 12px 20px 12px;
+}
+.working ul li:nth-child(2n){
+    margin-left: 457px;
+}
+.working ul li:nth-child(2n) span {
+    margin: 20px 12px 20px 12px;
+}
+.working ul li:last-child {
+    margin: 92px 0px 32px 270px;
+}
+.working ul li:last-child span {
+    margin: 10px 0px 6px 0px;
+}
+.working ul li label {
+	width: 230px;
+}
+
+
+
+
+
+
+
+.contacts {
+	height: 760px;
+}
+.contacts .map {
+	width: 49%;
+}
+.contacts .info {
+	width: 439px;
+	height: 760px;
+}
+.contacts .info .title {
+	font-size: 21px;
+	padding: 45px 0px 20px;
+}
+.contacts ul {
+    margin: 0px 0px 0px 70px;
+}
+.contacts ul li {
+	margin: 40px 0px 50px;
+}
+.contacts ul li span {
+    width: 48px;
+	height: 100%;
+}
+	
+.contacts ul li label {
+	font-size: 15px;
+}
+.contacts ul li img {}
+
+.contacts ul li.icon-phone  {
+	font-size: 16px;
+}
+.contacts ul li.icon-phone  label {
+	font-size: 16px;
+}
+.contacts ul li.icon-phone  a {
+	font-size: 15px;
+	margin: 0px 10px;
+}
+.contacts ul li.icon-email  {
+	font-size: 16px;
+}
+.contacts ul li.icon-email label {
+	font-size: 16px;
+}
+.contacts ul li.icon-geo  {
+    margin: -15px 0px 20px;
+}
+.contacts ul li.icon-geo span {}
+.contacts ul li.icon-info  {
+	margin: 40px 0px 20px;
+}
+.contacts ul li.icon-info .titl {
+	font-size: 15px;
+	padding-top: 5px;
+}
+.contacts ul li.icon-info label {
+	padding: 6px 0px 0px 70px;
+}
+
+.contacts .dev  {
+	display: block;
+}
+
+
+.policie {
+	font-size: 13px;
+	padding: 0px 0px 20px;
+}
+
+.policie .title {
+	font-size: 21px;
+	font-weight: bold;
+	text-align: center;
+	margin: 30px 0px 20px;
+	line-height: 32px;
+}
+
+
+	
+	
+	
+}
+@media screen and (max-width: 1000px) {
+	
+	
+	
+	
+	
+}
+
+
+/*  */
+@media screen and (min-width: 600px) and (max-width: 870px) {
+		
+.wrapper {
+	width: 580px;
+}
+
+.header {
+    height: 74px;
+}
+.logo {
+	display: none;
+}
+.logo span {
+	display: none
+}
+
+
+.buttonmenu {}
+
+.top-menu {
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+	display: none;
+	position: absolute;
+	top: 69px;
+	left: 0px;
+	background: #fff;
+	border-radius: 5px;
+	text-align: center;
+	padding: 10px 0;
+}
+.top-menu li {
+	display: block;
+	text-align: center;
+}
+.top-menu li a{
+	font-size: 17px;
+	padding: 3px 0px;
+}
+.top-menu li:after{
+    display: block;
+    height: 2px;
+    margin: 5px auto 0;
+    width: 100px;
+
+}
+
+.phone {
+    width: 230px;
+    margin: 8px 0px 0px 300px;
+}
+
+
+
+
+.home {
+	margin: 40px 0px 0px;
+	background-size: auto 680px;
+	height: 515px;
+	padding: 60px 0px 0px;
+}
+.home .title {
+	font-size: 29px;
+	width: 545px;
+}
+.home .advans {
+	font-size: 13px;
+	margin: 18px 0px 0px;
+	text-align: center;
+}
+.home .advans li {
+	width: 51%;
+	line-height: 16px;
+	text-align: left;
+	font-size: 15px;
+	margin: 10px 0px;
+}
+.home .advans li span {
+	width: 50px;
+	
+}
+.home .advans li img {
+	max-width: 47px;
+	max-height: 45px;
+}
+
+.buttonmob {
+    display: block;
+    background-color: #da1c5c;
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2) 0px, rgba(255, 255, 255, 0.2) 100%);
+    cursor: pointer;
+    margin: 36px auto 0px;
+    padding: 8px 0px 12px;
+    width: 182px;
+    box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.25);
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    text-align: center;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 15px;
+    border: medium none;
+    background-position: center center;
+}
+.buttonmob:active {
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0px, rgba(255, 255, 255, 0.2) 100%);
+}
+
+.home .scroll {
+	margin: 30px auto 0px;
+}
+
+
+
+
+
+
+
+
+.about {
+    height: 1100px;
+	padding: 34px 0px 0px;
+}
+.about .info {
+   width: 600px;
+}
+.about .info .title {    
+	font-size: 23px;
+	margin: -7px 0px 20px;
+	line-height: 22px;
+}
+.about .info ul {
+	width: 565px;
+	padding: 0px 0px 0px 28px;
+}
+.about .info ul li {
+	font-size: 15px;
+	padding: 13px 0px 13px;
+}
+.about .attestat {
+	width: 600px;
+	padding: 0px 0px 0px;
+	margin: 20px 0px 30px 0px;
+}
+.about .attestat img {
+	height: auto;
+	width: 600px;
+}
+.about .attestat label {
+	font-size: 15px;
+}
+.about .attestat label b {
+	font-size: 17px;
+}
+
+.about .info ul br {
+	display: none;
+}
+.about .info br + br {
+	displsy: none;
+} 
+
+
+
+
+
+.personnel {
+	height: 940px;
+	background-size: 1800px 1005px;
+	background-position: top center;
+}
+.personnel .title {    
+	font-size: 21px;
+	padding: 42px 0px 20px;
+}
+.personnel ul li { 
+	width: 520px;
+	padding: 40px 0px 15px 80px;
+	line-height: 17px;
+	font-size: 15px;
+}
+.personnel ul li span {
+	margin: -11px 16px 0 0px;
+	padding: 7px;
+	width: 55px;
+	height: 55px;
+	line-height: 54px;
+	border: 4px solid #da1c5c;
+}
+.personnel ul li  img {
+	max-width: 33px;
+	max-height: 50px;
+}
+
+.personnel .diplomas .title {
+    margin: 39px 0 31px;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+.personnel .diplomas a {
+    margin: 0px 5px;
+}
+.personnel .diplomas a  img {
+	width: 132px;
+	height: auto;
+}
+
+
+
+
+
+
+
+.experience {
+	height: 1140px;
+}
+.experience .info {
+	width: 600px;
+	padding: 60px 0px 0px 0px;
+}
+.experience .title {
+	font-size: 23px;
+}
+.experience ul {
+	margin: 26px 0px 0px;
+	padding: 0px 0px 0px 100px;
+}
+.experience ul li {
+	font-size: 15px;
+	padding: 11px 0px 4px 0px;
+}
+
+.experience .experience-slider {
+	width: 577px;
+}
+.experience .experience-slider .button {
+	width: 45px;
+	height: 19px;
+	margin: 0px auto;
+	background-size: 45px 19px;
+	
+}
+.experience .experience-slider .button-prev{
+	margin: 0px auto 15px;
+}
+.experience .experience-slider .button-next{
+	margin: 15px auto 0px;
+}
+.experience .experience-slider a {
+	margin: 5px 5px;
+}
+.experience .experience-slider a img {
+	border: 7px solid #eeeeee;
+	width: 550px;
+	height: auto;
+	
+}
+
+
+
+
+
+
+.employees {
+	background-color: #F5F5F5;
+	height: 760px;
+}
+.employees .title {
+	font-size: 23px;
+	padding: 40px 0px 50px;
+}
+.employees ul li {
+	width: 200px;
+	margin: 7px 12px 9px;
+}
+.employees ul li img {
+}
+.employees ul li label {
+	font-size: 14px;
+}
+.employees ul li label b {
+	font-size: 16px;
+}
+
+
+
+
+
+.conditions {
+	height: 330px;;
+}
+.conditions .info_bg {
+	width: 49%;
+	height: 330px;
+	background-position: top right 17%;
+	background-size: auto 330px;
+}
+.conditions .info {
+   width: 300px;
+	height: 330px;;
+}
+.conditions .title {
+	font-size: 21px;
+	padding: 45px 0px 20px;
+}
+
+.conditions ul {
+    width: 260px;
+}
+.conditions ul li {
+    font-size: 14px;
+    margin: 22px 0px 30px;
+}
+
+.conditions ul li span {
+    margin: 0px 12px 0px 0px;
+    width: 40px;
+}
+
+
+
+
+
+
+
+.terms {
+	text-align: center;
+	height: 460px;
+}
+.terms .title {
+	font-size: 21px;
+    font-weight: bold;
+	margin: 41px 0px 10px;
+}
+.terms img {
+	margin: 16px 20px 0px 0px;
+	width: 300px;
+}
+.terms table {
+	margin: 45px 70px 0px 0px;
+}
+
+
+
+.past {
+	height: 620px;
+	background-color: #F5F5F5;
+}
+.past .title {
+	font-size: 21px;
+	padding: 40px 0px 0px;
+}
+.past .past-slider a {
+	width: 230px;
+	height: 340px;
+	margin: 0px 25px 50px;
+}
+.past .past-slider img {
+	width: 230px;
+	height: auto;
+}
+.past .past-slider label {
+	color: #121212;
+	padding: 10px 0px 0px;
+}
+.past .past-slider .button {
+	position: absolute;
+	bottom: 0px;
+	width: 20px;
+	height: 35px;
+	font-size: 0px;
+	cursor: pointer;
+}
+.past .past-slider .button-prev {
+	left: 30%;
+}
+.past .past-slider .button-next {
+	right: 30%;
+}
+.past .past-slider .slick-dots {
+	height: 32px;
+	width: 34%;
+}
+
+
+
+
+
+
+.working {
+    height: 1280px;
+}
+.working .title {
+	font-size: 23px;
+	margin: 19px 0px 30px;
+}
+.working ul {
+    background-image: none;
+	width: 300px;
+margin: 0px auto;
+}
+.working ul li {
+	margin: 0px 5px 20px;
+	width: 300px;
+	height: 75px;
+	border: 5px solid #f5f5f5;
+	padding: 0px 0px 0px 0px;
+	font-size: 11px;
+	line-height: 15px;
+}
+.working ul li span {
+	margin: 23px 10px 18px 30px;
+}
+.working ul li label {
+}
+.working ul li:nth-child(2n){
+    margin-left: 5px;
+}
+.working ul li:nth-child(2n) span {
+	margin: 23px 30px 18px 10px;
+}
+.working ul li:last-child {
+	margin: 0px 5px 20px;
+}
+.working ul li:last-child span {
+	margin: 13px 0px 0px 0px;
+}
+
+
+
+
+
+
+
+
+.contacts {
+	height: 760px;
+}
+.contacts .map {
+	width: 49%;
+}
+.contacts .info {
+	width: 530px;
+	height: 760px;
+	margin: 0px auto;
+	display: block;
+}
+.contacts .info .title {
+	font-size: 21px;
+	padding: 45px 0px 20px;
+}
+.contacts ul {
+    margin: 0px 0px 0px 70px;
+}
+.contacts ul li {
+	margin: 40px 0px 50px;
+}
+.contacts ul li span {
+    width: 48px;
+	height: 100%;
+}
+	
+.contacts ul li label {
+	font-size: 15px;
+}
+.contacts ul li img {}
+
+.contacts ul li.icon-phone  {
+	font-size: 16px;
+}
+.contacts ul li.icon-phone  label {
+	font-size: 16px;
+}
+.contacts ul li.icon-phone  a {
+	font-size: 15px;
+	margin: 0px 10px;
+}
+.contacts ul li.icon-email  {
+	font-size: 16px;
+}
+.contacts ul li.icon-email label {
+	font-size: 16px;
+}
+.contacts ul li.icon-geo  {
+    margin: -15px 0px 20px;
+}
+.contacts ul li.icon-geo span {}
+.contacts ul li.icon-info  {
+	margin: 40px 0px 20px;
+}
+.contacts ul li.icon-info .titl {
+	font-size: 17px;
+}
+.contacts ul li.icon-info label {
+	padding: 6px 0px 0px 70px;
+}
+
+.contacts .dev  {
+	display: block;
+}
+
+
+.policie {
+	font-size: 13px;
+	padding: 0px 0px 20px;
+}
+
+.policie .title {
+	font-size: 21px;
+	font-weight: bold;
+	text-align: center;
+	margin: 30px 0px 20px;
+	line-height: 32px;
+}
+	
+	
+	
+	
+	
+	
+}
+
+
+@media screen and (min-width: 870px) {
+	.mobile {display: none;}
+}
+
+
+@media screen and (max-width: 870px) {
+	.buttonmenu {
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	margin: 14px 7px;
+	cursor: pointer;
+}
+.buttonmenu i {
+	display: block;
+	height: 3px;
+	background-color: #3fc591;
+	margin: 6px auto;
+	border-radius: 20px;
+}
+.background .buttonmenu i {
+}
+.hidemob {
+	display: none !important;
+}
+.mobbr {
+	display: block;
+}
+
+.about .attestat::after {
+    display: none;
+}
+
+
+
+}
+
+
+
+/*  */
+@media screen and (min-width: 420px) and (max-width: 600px) {
+
+}
+@media screen and (max-width: 600px) {
+
+}
+
+/*  */
+@media screen and (min-width: 300px) and (max-width: 419px) {
+
+
+}
+@media screen and (max-width: 600px) {
+
+
+
+body {
+	min-width: 320px;
+	max-width: 420px;
+	
+}
+
+
+.wrapper {
+	width: 320px;
+}
+
+
+.header {
+    height: 70px;
+}
+
+.logo {
+	display: none;
+}
+
+.buttonmenu {
+    margin: 18px 80px 0px 19px;
+}
+
+.top-menu {
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+	display: none;
+	position: absolute;
+	top: 50px;
+	left: 0px;
+	background: #fff;
+	border-radius: 5px;
+	text-align: center;
+	padding: 10px 0px;
+}
+.top-menu li {
+	display: block;
+	text-align: center;
+}
+.top-menu li a{
+	font-size: 17px;
+	padding: 3px 0px;
+}
+.top-menu li:after{
+    display: block;
+    height: 2px;
+    margin: 5px auto 0;
+    width: 100px;
+
+}
+
+.top-menu li:hover:after{
+	opacity: 0;
+}
+
+
+.phone {
+    width: 180px;
+    margin: 19px 0px 0px;
+}
+.phone label {
+    display: none;
+}
+.phone span {
+    font-size: 19px;
+    display: block;
+    margin: 5px 0px 0px 0px;
+}
+
+
+
+
+.home {
+	margin: 70px 0px 0px;
+	background-size: auto 500px;
+	height: 450px;
+	padding: 0px 0px 0px;
+	background-position: top -35px left 27%;
+}
+.home .title {
+	font-size: 16px;
+	padding: 30px 10px 0px;
+	width: 300px;
+}
+
+.home .advans {
+	font-size: 13px;
+	margin: 40px auto 0px;
+	width: 225px;
+}
+.home .advans li {
+	width: 100%;
+}
+.home .advans li span {
+	width: 40px;
+	height: 40px;
+	float: none;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0px 10px 0px 0px;
+	line-height: 37px;
+	text-align: center;
+}
+.home .advans li label {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.home .advans li img {
+	max-height: 40px;
+	max-weight: 40px;
+}
+
+
+.buttonmob {
+	display: block;
+	background-color: #da1c5c;
+	background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2) 0, rgba(255, 255, 255, 0.2) 100%);
+	cursor: pointer;
+	margin: 36px auto 0;
+	padding: 8px 0 12px;
+	width: 182px;
+	box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.25);
+	color: #ffffff;
+	font-weight: 600;
+	text-align: center;
+	border-radius: 5px;
+	text-decoration: none;
+	font-size: 15px;
+	border: none;
+	background-position: center;
+}
+.buttonmob:active {
+	background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0, rgba(255, 255, 255, 0.2) 100%);
+}
+
+
+.home .scroll {
+	margin: 20px auto 0px;
+}
+
+
+
+
+
+
+.about {
+	height: 740px;
+	padding: 5px 0px 0px;
+}
+.about .info {
+	width: 300px;
+	padding: 0px 10px;
+}
+.about .info .title {
+	font-size: 18px;
+	line-height: 24px;
+}
+.about .info ul {
+	width: 280px;
+	padding: 0px 0px 0px 10px;
+	margin: 0px auto;
+}
+.about .info ul li {
+	font-size: 12px;
+	padding: 5px 0px 13px;
+}
+.about .info ul br {
+	display: none;
+}
+.about .info br + br {
+	displsy: none;
+} 
+.about .attestat {
+	width: 300px;
+	margin: 0px 10px 0px 10px;
+}
+.about .attestat:after {
+	top: 18%;
+	left: 31%;
+}
+.about .attestat img {
+	width: 300px;
+	height: auto;
+}
+.about .attestat label {
+	font-size: 15px;
+}
+.about .attestat label b {
+	font-size: 16px;
+}
+
+.personnel {
+	height: 810px;
+	background-size: auto 810px;
+	background-position: top 0px left 21%;
+	background-color: #717171;
+}
+.personnel .title {
+	font-size: 18px;
+}
+.personnel ul li { 
+	width: 300px;
+	padding: 30px 10px 10px 10px;
+	line-height: 14px;
+	font-size: 11px;
+}
+.personnel ul li span {
+	margin: 0px 17px 0 0px;
+	padding: 9px;
+	width: 20px;
+	height: 20px;
+	line-height: 19px;
+	border: 3px solid #da1c5c;;
+}
+.personnel ul li img {
+    max-height: 100%;
+}
+
+
+.personnel .diplomas .title {
+	margin: 0px 0 20px;
+	font-size: 18px;
+}
+.personnel .diplomas a {
+	margin: 5px 4px;
+	width: 100px;
+}
+.personnel .diplomas a img {
+	width: 100px;
+	height: 70px;
+}
+
+
+
+.experience {
+	height: 780px;
+}
+.experience  ul br {
+    display: none;
+}
+.experience br + br {
+	displsy: none;
+} 
+.experience .info {
+	width: 320px;
+	padding: 20px 0px 0px;
+}
+.experience .title {
+	font-size: 18px;
+}
+.experience ul {
+	margin: 0px auto 0px;
+	width: 280px;
+	padding: 0px 5px 0px 15px;
+}
+.experience ul li {
+	font-size: 11px;
+	padding: 20px 0px 3px 0px;
+}
+.experience .experience-slider {
+    width: 300px;
+	margin: 0px auto;
+	display: block;
+}
+.experience .experience-slider .button {
+	width: 40px;
+	height: 19px;
+	background-size: 40px 19px;
+	
+}
+.experience .experience-slider .button-prev{
+	margin: 0px auto 9px;
+}
+.experience .experience-slider .button-next{
+	margin: 9px auto 0px;
+}
+.experience .experience-slider a img {
+	border: 5px solid #eeeeee;
+	width: 275px;
+	height: auto;
+	
+}
+
+
+
+.employees {
+    height: 560px;
+}
+.employees .title {
+	font-size: 18px;
+	padding: 26px 0px 30px;
+}
+.employees ul li {
+	width: 110px;
+	margin: 0px 8px 6px;
+}
+.employees ul li img {
+	margin: 0px 0px 17px;
+}
+.employees ul li label {
+	font-size: 11px;
+}
+.employees ul li label b {
+	font-size: 13px;
+}
+
+
+
+.conditions {
+	height: 300px;
+}
+.conditions .info_bg {
+	height: 300px;
+	background-size: auto 300px;
+	background-position: top 0px right 26%;
+}
+.conditions .info {
+	width: 150px;
+	height: 300px;
+}
+.conditions .title {
+	font-size: 18px;
+	padding: 8px 0px 15px;
+}
+.conditions ul {
+	width: 150px;
+}
+.conditions ul li {
+	font-size: 11px;
+	margin: 11px 0px 20px;
+	text-align: center;
+}
+.conditions ul li span {
+	margin: 0px auto 0px;
+	width: 28px;
+	display: block;
+	height: 34px;
+}
+.conditions ul li img {
+	max-height: 100%;
+}
+
+
+
+.terms {
+	height: 510px;
+}
+.terms .title {
+	font-size: 18px;
+	margin: 41px 0px 10px;
+}
+.terms img {
+	margin: 0px;
+	width: 300px;
+}
+.terms table {
+	margin: 0px 0px 0px 0px;
+}
+.terms th {
+	font-size: 17px;
+	padding: 0px 0px 5px;
+}
+.terms td {
+	padding: 5px 5px 0px 0px;
+	font-size: 14px;
+}
+.terms label {
+	font-size: 16px;
+}
+
+
+
+
+.past {
+	height: 440px;
+}
+.past .title {
+    font-size: 18px;
+    margin: 30px auto 25px;
+    padding: 20px 0px 0px;
+}
+.past .past-slider a {
+	width: 110px;
+	height: 260px;
+	margin: 0px 10px 20px;
+}
+.past .past-slider img {
+	width: 110px;
+	height: auto;
+}
+.past .past-slider label {
+	padding: 10px 0px 0px;
+	font-size: 11px;
+}
+.past .past-slider .button {
+	width: 20px;
+	height: 35px;
+}
+.past .past-slider .button-prev {
+	left: 4%;
+}
+.past .past-slider .button-next {
+	right: 4%;
+}
+.past .past-slider .slick-dots {
+	width: 70%;
+	height: 9px;
+	font-size: 0px;
+	padding: 11px 0px 13px;
+}
+.past .past-slider .slick-dots li button {
+	width: 20px;
+	height: 8px;
+	margin: 0px 3px;
+}
+
+
+
+
+.working {
+    height: 1320px;
+}
+.working .title {
+	font-size: 18px;
+	margin: 19px 0px 30px;
+}
+.working ul {
+    background-image: none;
+}
+.working ul li {
+	margin: 0px 5px 20px;
+	width: 300px;
+	height: 75px;
+	border: 5px solid #f5f5f5;
+	padding: 0px 0px 0px 0px;
+	font-size: 11px;
+	line-height: 15px;
+}
+.working ul li span {
+	margin: 23px 10px 18px 30px;
+}
+.working ul li label {
+}
+.working ul li:nth-child(2n){
+    margin-left: 5px;
+}
+.working ul li:nth-child(2n) span {
+	margin: 23px 30px 18px 10px;
+}
+.working ul li:last-child {
+	margin: 0px 5px 20px;
+}
+.working ul li:last-child span {
+	margin: 13px 0px 0px 0px;
+}
+
+
+
+
+
+
+
+.question {
+	background-size: 1800px 450px;
+	background-position: top center;
+	height: 400px;
+	padding: 50px 0px 0px;
+}
+
+
+.contacts {
+	height: 550px;
+}
+.contacts .info {
+    width: 300px;
+    height: 550px;
+	padding: 0px 10px;
+}
+.contacts .info .title {
+	font-size: 18px;
+	padding: 35px 0px 20px;
+}
+.contacts ul {
+	width: 245px;
+	margin: 0px auto;
+}
+.contacts ul li {
+	margin: 15px 0px 30px;
+}
+.contacts ul li span {
+	width: 22px;
+	margin: -10px 0px 0px;
+}
+.contacts ul li span img {
+	max-width: 20px;
+	max-height: 20px;
+}
+	
+.contacts ul li label {
+	font-size: 11px;
+}
+
+.contacts ul li.icon-phone  label {
+	font-size: 14px;
+	padding-left: 27px;
+}
+.contacts ul li.icon-phone  a {
+	font-size: 13px;
+	margin: 7px 10px;
+	display: block;
+}
+.contacts ul li.icon-email label {
+	font-size: 14px;
+}
+.contacts ul li.icon-info  {
+	margin: 20px 0px 20px;
+}
+.contacts ul li.icon-info .titl {
+	font-size: 11px;
+}
+.contacts ul li.icon-info label {
+	padding: 6px 0px 0px 20px;
+}
+.contacts ul li.icon-info span  {
+}
+
+.contacts .footer {
+	width: 88%;
+	font-size: 12px;
+	margin: 0px auto;
+}
+.contacts .privacy {
+	padding: 0px 20px;
+	margin: 6px 0px;
+	display: block;
+}
+.contacts .dev {
+	padding: 0px 20px;
+}
+
+.policie {
+	font-size: 11px;
+	padding: 0px 0px 20px;
+}
+
+.policie .title {
+	font-size: 15px;
+	margin: 14px 0px 20px;
+}
+
+
+
+
+.form .tit {
+	font-size: 18px;
+}
+.form  input {
+	width: 180px;
+	margin: 20px 0px -5px;
+	padding: 10px 45px 10px 10px;
+}
+.form .submit{
+	display: block;
+	background-color: #da1c5c;
+	background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2) 0, rgba(255, 255, 255, 0.2) 100%);
+	cursor: pointer;
+	margin: 36px auto 0;
+	padding: 8px 0 12px;
+	width: 182px;
+	box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.25);
+	color: #ffffff;
+	font-weight: 600;
+	text-align: center;
+	border-radius: 5px;
+	text-decoration: none;
+	font-size: 15px;
+	border: none;
+	background-position: center;
+}
+
+
+
+.acf-map {
+	width: 100%;
+	height: 760px;
+	border: #ccc solid 1px;
+	margin: 0px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
